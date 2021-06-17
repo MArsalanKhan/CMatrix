@@ -1,12 +1,11 @@
 // main.cpp
 
-////////////////////////////////////////////////////////////////////////////////
-////////////////////////////////////////////////////////////////////////////////
+
 // Header-Dateien
 #include <iostream>				// Header f�r die Standard-IO-Objekte (z.B. cout, cin)
 #include <stdlib.h>
 
-using namespace std;			// erspart, den scope vor Objekte der C++-Standard-Bibliothek zu schreiben
+using namespace std;			
 								// z.B. statt "std::cout" kann man "cout" schreiben
 #include "CMatrix.h"
 
