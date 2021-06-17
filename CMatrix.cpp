@@ -8,10 +8,7 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
-	
-	// TODO: ggf. Einf�gen weiterer Header-Dateien
 
-////////////////////////////////////////////////////////////////////////////////
 // Funktionen oder Klassen
 
 // Konstruktor
